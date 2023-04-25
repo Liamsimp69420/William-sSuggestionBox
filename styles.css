@@ -17,3 +17,11 @@ body{
 body {
   text-align: center;
 }
+.container {
+  height: 1920px; 
+  overflow: hidden; 
+}
+.container {
+  width: 1280px; 
+  overflow: hidden; 
+}
