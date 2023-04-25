@@ -25,6 +25,6 @@ body {
   width: 550px; 
   overflow: hidden; 
 body {
-  width: 550px; /* set the width to 550 pixels */
+  width: 500px; /* set the width to 550 pixels */
   height: calc(550px * 16 / 9); /* set the height based on the width and aspect ratio */
 }
