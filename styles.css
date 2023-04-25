@@ -28,3 +28,9 @@ body {
   width: 500px; /* set the width to 550 pixels */
   height: calc(550px * 16 / 9); /* set the height based on the width and aspect ratio */
 }
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
+  }
+}
