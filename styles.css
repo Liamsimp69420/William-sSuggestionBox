@@ -38,3 +38,15 @@ body {
     padding: 10px;
   }
 }
+body {
+  background-color: lightblue;
+  color: black;
+}
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: darkblue;
+    color: white;
+  }
+}
