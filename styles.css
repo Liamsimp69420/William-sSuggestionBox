@@ -49,3 +49,16 @@ body {
     color: white;
   }
 }
+#message {
+  display: block;
+  position: fixed;
+  bottom: -50px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  width: 300px;
+  text-align: center;
+}
