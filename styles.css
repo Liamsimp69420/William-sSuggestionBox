@@ -49,3 +49,8 @@ body {
     color: white;
   }
 }
+img {
+  display: inline-block;
+  float: left;
+  margin: 10px;
+}
