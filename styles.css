@@ -49,8 +49,3 @@ body {
     color: white;
   }
 }
-img {
-  display: inline-block;
-  float: left;
-  margin: 15px;
-}
