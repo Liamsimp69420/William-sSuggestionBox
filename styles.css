@@ -29,8 +29,8 @@ body {
   width: 550px; 
   overflow: hidden; 
 body {
-  width: 500px; /* set the width to 550 pixels */
-  height: calc(550px * 16 / 9); /* set the height based on the width and aspect ratio */
+  width: 500px; 
+  height: calc(550px * 16 / 9); 
 }
 @media screen and (max-width: 600px) {
   body {
@@ -43,7 +43,6 @@ body {
   color: black;
 }
 
-/* Dark mode styles */
 @media (prefers-color-scheme: dark) {
   body {
     background-color: darkblue;
